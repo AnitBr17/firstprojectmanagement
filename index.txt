@@ -1,0 +1,42 @@
+1.
+The milestone of the website which shows what time to take website what to make and changes the everything in website in given time taken.The design must include the homepage, product pages, and responsive layouts for both desktop and mobile devices. And also UI/UX design that include color scheme and typography and its components.
+
+
+2.
+Issue 1:
+Title: Mobile Responsive doesn't work properly
+Description: Mobile Responsive doesn't work properly we need to implement mobile-responsive test design for homepage and other pages. when in mobile website open all the elements and other buttons are move here and there and screen sizes are different for each other phones.
+Assigned to: Anit Baranwal
+Labes: Improve UI/UX design
+
+Issue 2:
+Title: Resolve “Forget Password” Functionality
+Description: Users want to reset the password if he/she was forget the password and this feature will include email verification process, where users receive  line to create new password.This feature improve our website and users friendly website and intricate existing users authentication process.
+Assigned to: Avinash Kumar
+Labels: authentication process,security and request feature
+
+Issue 3:
+Title: Bug Report Coupan not taking
+Description: When users add coupon and use coupon the coupon not taking and in cart page here is shown this coupon is available but coupon is invalid.It seems like coupon is not taking in the cart page and not being applied properly. This bug could result not taking coupon discount properly. Please solve this problem.
+Assigned to: Neha Singh
+Labels: backed and bug
+
+4.
+1. Issue: Implementation of Responsive Mobile Design
+In today's digital world everyone have smartphone and we have to make mobile responsive websites more friendly is very crucial.Many users have smartphone access websites from mobile devices. And If our platform is not working properly and optimized for mobile.This result could result in poor user experience and lots of customers.The responsive design website adapts to different screen sizes and enhancing accessibility.
+The website works smoothly on both mobile devices and desktops.this feature user friendly product to making it accessible to people and customers.
+
+2. Issue: If users forget their password, they should be able to reset the password and make new password easily through a secure email verification process.This feature is crucial ensuring that users have a smooth user experience to access their account.This feature enhances user account management and ensures security.The platforms would feel incomplete in terms of security and experience.
+This feature is very necessary for basic level of user functionality ensure users can recover their account.
+
+5.
+Using Github project management features milestones, issues, and project boards can greatly enhance team and improve team collaboration and project organization. These tools provides structure wat to manage tasks, track progress, milestone and clear visibility project process and ensure with a team.
+Milestone serve critical checkpoints within project timeline,allowing the team focus on project achieving goals set by deadline.By assigning deadline to each milestone we plan to each point of time to our workload and avoid last minutes submission.This streamlines communication, making it easy to track what needs to be done and who is responsible for it.with the layout team members ensure easily move tasks between rows and column (eg, “To Do”, “In Progress”, “Done”), providing clear view the project status.This visual tracking the track the project and transparency and encourages team members to take individual responsibility.
+Some may forget to update the tasks and move to another tasks and leading to incorrect information. Additionally overcomplicating the board with too many categories or columns might overwhelm the team and hinder its usefulness. The time management is useful and essential tracking tasks and updating the status of the project and could take time to actual development work. Inconsistent use of the project board can lead to outdated information, which may hinder decision-making.
+May be resistance to adopting new tools from team members who are accustomed to traditional methods of project management.
+Overall summary while using github project management tools offer significant advantages in enhancing collaboration and organization, carefully planning and consistent usage are essential for teams of project managemnt to overcome potential challenges and maximize their effectiveness.
+
+
+
+
+
